@@ -1,4 +1,4 @@
-# usagi's guide to free stuff ![knowledgeable usagi](/usagi.png "Usagi")
+# usagi's guide to free stuff ![knowledgeable usagi](/usagipic.png "Usagi")
 
 a compilation of **many** safe ways of obtaining free media!
 
