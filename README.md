@@ -1,7 +1,6 @@
 # usagi's guide to free stuff
 
 a compilation of **many** safe ways of obtaining free media!
----
 
 ## Disclaimer ⚠️
 > These guides will **not give you malware**. If your antivirus flags something, it's likely a false positive - this will most likely happen if you're cracking software.
